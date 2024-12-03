@@ -1,1 +1,4 @@
-cmVxdWVzdHMKc2VsZW5pdW0Kd2ViZHJpdmVyX21hbmFnZXIKcHlxdWVyeQ==
+requests
+selenium
+webdriver_manager
+pyquery
